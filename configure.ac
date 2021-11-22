@@ -1,5 +1,5 @@
 AC_PREREQ([2.64])
-AC_INIT([pragha radiobrowser plugin], [0.0.1], [eric.vissers@xs4all.nl], [pragha-radiobrowser-plugin], [https://github.com/emv-nl/pragha-radiobrowser-plugin])
+AC_INIT([pragha radiobrowser plugin], [0.0.1], [nospam@nospam.com], [pragha-radiobrowser-plugin], [https://github.com/emv-nl/pragha-radiobrowser-plugin])
 AC_CONFIG_SRCDIR([src/pragha-sample-plugin.c])
 AC_CONFIG_HEADERS([config.h])
 LT_INIT
