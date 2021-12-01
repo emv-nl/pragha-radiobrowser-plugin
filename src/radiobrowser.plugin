@@ -1,0 +1,8 @@
+[Plugin]
+Module=radiobrowser
+Name=Search music stations on radiobrowser
+Description=Search music stations on radiobrowser.info
+Authors=Eric Vissers <https://github.com/emv-nl
+Copyright=Copyright © 2021 Eric Vissers
+Website=https://github.com/emv-nl/pragha-radiobrowser-plugin
+Help=https://github.com/emv-nl/pragha-radiobrowser-plugin
